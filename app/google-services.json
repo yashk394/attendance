@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924411864653",
+    "project_id": "blinkin-49c32",
+    "storage_bucket": "blinkin-49c32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924411864653:android:aaa1696784c799614c1e04",
+        "android_client_info": {
+          "package_name": "com.example.blinin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvAqDOAHhFHo_V_M3SkY9qaw6tIarEyD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

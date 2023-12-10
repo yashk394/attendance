@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">BlinIn</string>
+
+
+    //login.xml
+
+    <string name="maklog"> Make a Login  </string>
+    <string name="forpass">Forgot/change Password?</string>
+    <string name="Login">LogIn</string>
+    <string name="arenew">Are you new?Register Now</string>
+    <string name="password6">password length should be 6 character</string>
+    <string name="usr">Enter Username</string>
+    <string name="password">Enter Password</string>
+
+
+    //register.xml
+
+    <string name="makereg">Make a Registration</string>
+    <string name="egabc">eg abc</string>
+    <string name="rhcs123">eg rhcs123</string>
+    <string name="eg12">eg 1234</string>
+    <string name="confirmpasss">confirm password</string>
+    <string name="egxyz">eg xyz123</string>
+    <string name="canclepas">CANCLE</string>
+    <string name="login">REGISTER</string>
+    <string name="nam">Enter Name</string>
+    <string name="empid">Enter Emp ID</string>
+    <string name="press">press again back to exit...</string>
+
+
+    //mark my attendance
+
+    <string name="Markmyattendance">Mark My Attendance</string>
+    <string name="Applyforleave">Apply for leave</string>
+    <string name="Displayswipes">Display swipes</string>
+    <string name="Genaretreport">Genarate Report</string>
+
+    <string name="Leave">Leave</string>
+    <string name="want">Do you want to logout from this account?</string>
+    <string name="Yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="youof">You Are Offline...!</string>
+    <string name="pleaseent">please enter all fields</string>
+    <string name="patintal"> Employee already exist</string>
+
+
+</resources>
