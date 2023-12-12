@@ -43,6 +43,8 @@
     <string name="youof">You Are Offline...!</string>
     <string name="pleaseent">please enter all fields</string>
     <string name="patintal"> Employee already exist</string>
+    <string name="upl">upload</string>
+    <string name="show">show all</string>
 
 
 </resources>
